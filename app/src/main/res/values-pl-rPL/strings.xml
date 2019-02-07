@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Costalatta Cars</string>
+    <string name="borrowed_amount">kwota_pożyczona</string>
+    <string name="car_price">cena_samochodu</string>
+    <string name="car_sticker_price">cena_naklejki_samochodowej</string>
+    <string name="cash_down_payment">wypłata_gotówkowa</string>
+    <string name="choose_loan_term">wybierz_okres_kredytowania</string>
+    <string name="dollar_sign">znak_dolara</string>
+</resources>
